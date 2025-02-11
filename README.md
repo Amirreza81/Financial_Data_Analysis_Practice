@@ -50,4 +50,4 @@ Understanding market trends and price relationships is crucial for developing tr
 
 ---  
 
-⚠️ **Note:** This project is my first experience in data science, and I acknowledge that it may have various shortcomings. I warmly welcome any collaboration, feedback, and suggestions to improve it. Your insights would be greatly appreciated!
+⚠️ **Note:** This project is my first experience in data science, and I acknowledge that it may have various shortcomings. I warmly welcome any collaboration, feedback, and suggestions to improve it. Your insights would be greatly appreciated! 
