@@ -1,4 +1,4 @@
-# 🚀 Data Science Practice – Cryptocurrency Analysis  
+# 🚀 Financial Data Analysis Practice – Cryptocurrency Analysis  
 
 🔍 **First Hands-On Practice in Data Science**  
 
